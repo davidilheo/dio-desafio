@@ -20,4 +20,4 @@ if(xp >= 0 && xp <= 1000){
     nivel = "Radiante"
 }
 
-console.log(`O heroi de nome ${heroi} esta no nivel de ${nivel}`)
+console.log(`O heroi de nome ${heroi} esta no nivel de ${nivel}`) 
